@@ -83,8 +83,7 @@ Output (5 classes) + Focal Loss
 #### Courbes ROC
 ![ROC Curves](resultats/roc_curves.png)
 
-#### Performance par Classe
-![Class Performance](resultats/class_performance.png)
+
 
 ## 🎨 Dashboard de Surveillance
 
@@ -121,9 +120,9 @@ Output (5 classes) + Focal Loss
 
 ## 📚 Documentation
 
-- [Rapport complet du projet](rapport/rapport_projet.pdf)
+
 - [Présentation de soutenance](rapport/presentation_soutenance.pdf)
-- [Rapport d'évaluation détaillé](resultats/evaluation_report.txt)
+  
 
 ## 🔬 Comparaison avec l'état de l'art
 
@@ -148,7 +147,7 @@ Si vous utilisez ce travail, merci de citer :
 ```bibtex
 @project{ids_deep_learning_2025,
   title={Système de Détection d'Intrusions basé sur le Deep Learning},
-  author={Hammouch, Laïla and Abbadi, Aya and Amaoui, Imane},
+  author={Hammouch, Laïla a},
   year={2025},
   institution={Ingénierie des Réseaux Intelligents et Cybersécurité},
   supervisor={Pr. EL Bannay}
@@ -170,4 +169,4 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 **Note** : Ce dépôt contient uniquement les résultats et la documentation du projet.  
 Le code source est disponible sur demande pour des raisons académiques.
 
-**Contact** : [Votre email académique]
+**Contact** : lailahammouch38@gmail.com

@@ -1,0 +1,27 @@
+# Code source (ne pas publier)
+*.py
+*.ipynb
+
+# Données brutes
+data/
+*.csv
+*.txt
+*.pkl
+
+# Modèles
+models/
+*.h5
+*.keras
+
+# Environnements
+venv/
+env/
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db

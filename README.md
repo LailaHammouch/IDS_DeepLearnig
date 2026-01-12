@@ -9,11 +9,10 @@
 > **Année**: 2025-2026  
 > **Encadré par**: Pr. EL Bannay
 
-## 👥 Auteurs
+##  Auteur
 
 - **Hammouch Laïla**
-- **Abbadi Aya**
-- **Amaoui Imane**
+
 
 ## 📋 Présentation du projet
 

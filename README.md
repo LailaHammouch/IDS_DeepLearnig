@@ -82,26 +82,7 @@ Output (5 classes) + Focal Loss
 - ⚠️ **Classes rares (R2L, U2R)** fortement impactées par le déséquilibre
 - 📊 **Amélioration significative** par rapport aux modèles de base
 
-### 📊 Visualisations
-
-#### Matrice de Confusion
-![Matrice de Confusion](resultats/confusion_matrix.png)
-
-*Classes majoritaires : forte concentration sur la diagonale. Confusions principales : R2L → Normal, causées par le déséquilibre des classes.*
-
-#### Courbes ROC
-![ROC Curves](resultats/roc_curves.png)
-
-*AUC > 0.95 pour Normal et DoS (Excellent) | AUC 0.88-0.91 pour R2L et U2R (Bon)*
-
-#### Courbes d'Entraînement
-![Training Curves](resultats/training_curves.png)
-
-*Convergence stable sans surapprentissage*
-
 ## 🎨 Dashboard de Surveillance
-
-![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
 
 **Fonctionnalités du dashboard** :
 - 📊 **Statistiques en temps réel** : Trafic total, attaques détectées, taux de détection
@@ -149,6 +130,8 @@ Output (5 classes) + Focal Loss
 ## 📚 Documentation
 
 - [📄 Présentation de soutenance](Rapport/Présentation.pdf)
+
+*Toutes les visualisations (matrice de confusion, courbes ROC, courbes d'entraînement, dashboard) sont disponibles dans la présentation.*
 
 ## 🔬 Comparaison avec l'état de l'art
 

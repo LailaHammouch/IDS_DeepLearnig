@@ -129,7 +129,7 @@ Output (5 classes) + Focal Loss
 
 ## 📚 Documentation
 
-- [📄 Présentation de soutenance](Présentation de soutenance.pdf)
+- [📄 Présentation de soutenance](Présentation.pdf)
 
 *Toutes les visualisations (matrice de confusion, courbes ROC, courbes d'entraînement, dashboard) sont disponibles dans la présentation.*
 

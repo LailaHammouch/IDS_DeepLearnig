@@ -121,7 +121,7 @@ Output (5 classes) + Focal Loss
 ## 📚 Documentation
 
 
-- [Présentation de soutenance](rapport/presentation_soutenance.pdf)
+- [Présentation de soutenance](rapport/Présentation de soutenance.pdf)
   
 
 ## 🔬 Comparaison avec l'état de l'art
